@@ -431,12 +431,12 @@ export const supportCardsData = [
 
 
 // src/data.jsx
-import IN1 from "../assets/Images/IN1.png";
-import IN2 from "../assets/Images/IN2.png";
-import IN3 from "../assets/Images/IN3.png";
-import IN4 from "../assets/Images/IN4.png";
-import IN5 from "../assets/Images/IN5.png";
-import IN6 from "../assets/Images/IN6.png";
+import IN1 from "../assets/Images/in1.png";
+import IN2 from "../assets/Images/in2.png";
+import IN3 from "../assets/Images/in3.png";
+import IN4 from "../assets/Images/in4.png";
+import IN5 from "../assets/Images/in5.png";
+import IN6 from "../assets/Images/in6.png";
 
 export const investmentCardsData = [
   {
